@@ -1,0 +1,5 @@
+1. create github repo -- make it public, add readme file, add python in gitignore & license
+2. clone repo in local system
+3. add vscode in that folder
+4. create project template.py file to create required folders & files automatically
+5. 
